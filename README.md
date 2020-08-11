@@ -8,7 +8,7 @@ Este repositório existe apenas para armazenar arquivos referentes aos projetos 
 
 Suas principais finalidades são:
  - Armazenar o código-fonte de projetos desenvolvidos pelo GEEE-UFRPE
- - Armazenar arquivos referentes a experimentos e simulações, que serão referenciados em artigos acadêmicos.
+ - Armazenar arquivos referentes a experimentos e simulações, que serão referenciados em artigos acadêmicos
  - [Hospedar páginas estáticas simples](https://woliveiras.com.br/posts/jamstack-criando-e-hospedando-seu-site-de-gra%C3%A7a-no-github-pages/), referentes a projetos e atividades desenvolvidos pelo GEEE-UFRPE
  
 
