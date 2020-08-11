@@ -2,7 +2,7 @@
 Informações sobre como usar o github para membros do GEEE-UFRPE
 
 ### Quem pode utilizar hospedar projetos no github do GEEE-UFRPE?
-Este repositório existe apenas para armazenar arquivos referentes aos projetos desenvovlidos pelos membros do Grupo de Engenharia Elétrica e Eletrônica da Universidade Federal Rural de Pernambuco (GEEE-UFRPE)
+Este repositório existe apenas para armazenar arquivos referentes aos projetos desenvovlidos pelos membros do Grupo de Engenharia Elétrica e Eletrônica da Universidade Federal Rural de Pernambuco (GEEE-UFRPE). É importante que os arquivos só sejam armazenados aqui quando o projeto já estiver concluído ou, pelo menos, em fase de conclusão, para evitar "poluir" o github do grupo com projetos inacabados
 
 ### Para que serve o github do GEEE-UFRPE?
 
