@@ -1,4 +1,5 @@
-# GEEE-UFRPE
+![GEEE UFRPE](GEEE-UFRPElogo.png?raw=true "GEEE UFRPE")
+
 Informações sobre como usar o github para membros do GEEE-UFRPE
 
 ### Quem pode utilizar hospedar projetos no github do GEEE-UFRPE?
