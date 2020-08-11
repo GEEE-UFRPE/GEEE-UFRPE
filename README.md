@@ -15,11 +15,11 @@ Suas principais finalidades são:
 ### Como armazenar arquivos no github do GEEE-UFRPE?
 
 - As pessoas que irão utilizar o github precisam primeiramente criar suas próprias contas no github (é gratuito)
-- Entrar em contato com o prof. João Pimentel, informando:
+- Peça para o(a) seu(sua) professor(a) entrar em contato com o prof. João Pimentel, informando:
   - Nome do repositório a ser criado
   - Descrição do repositório a ser criado
   - Github Username de todas as pessoas que irão utilizar o repositório
-- A partir disso, todo o gerenciamento do repositório (ex: inserir e apagar arquivos) será feita por vocês
+- A partir disso, todo o gerenciamento do repositório (ex: inserir e apagar arquivos) será feito por vocês
 
 ### Como usar o github?
 Observe que o git e o github são muito poderosos, com vários recursos avançados - eles podem ser bem complicados. Felizmente, existe bastante material gratuito disponível na Internet, basta pesquisar. A [documentação oficial do github](https://docs.github.com/pt/github/managing-files-in-a-repository) pode ser um bom ponto de partida
